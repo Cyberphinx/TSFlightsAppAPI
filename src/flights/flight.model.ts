@@ -1,9 +1,9 @@
-export interface Flight{
+export interface Flight {
     id?: number;
-    origin: string;
-    destination: string;
-    flightNumber: number;
-    depart: Date;
-    arrive: Date;
-    nonstop: boolean;
-}
+    origin: string; 
+    destination: string; 
+    flightNumber: number; 
+    depart: Date; 
+    arrive: Date; 
+    nonstop: boolean 
+  };
